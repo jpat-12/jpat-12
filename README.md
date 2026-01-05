@@ -1,16 +1,28 @@
-# 💫 About Me:
-I am a bachelor’s student at Liberty University studying Information Technology with a specialization in Data Networking & Security, complemented by a Minor in Pre-Law. My academic focus sits at the intersection of infrastructure, security, and governance—how systems are designed, protected, and responsibly deployed in high-stakes environments.
-<br><br>My passion for technology started early. At age 12, I built my first computer under the guidance of a mentor, an experience that sparked a lasting interest in how systems work at both the hardware and network levels. Since then, I’ve gravitated toward complex, mission-critical problems where reliability, security, and clarity matter more than convenience.
-<br><br>That trajectory led me deep into Civil Air Patrol (CAP) emergency services and software development, where I’ve contributed to and led several large-scale operational and technical initiatives:
-<br><br>## Training & Doctrine Development: 
-<br>Designed and implemented Search & Rescue (SAR) and Disaster Response training curricula used to prepare teams for real-world emergency operations.
-<br><br>## TAK Ecosystem Integration: 
-<br>Built specialized workflows and data pipelines for Team Awareness Kit (TAK), enabling ingestion of external data sources such as Esri Survey123 and other geospatial platforms.
-<br><br>## VISTA Platform: 
-<br>In response to the sunset of DAART, I architected VISTA (Visual Information Streaming for Tactical Analysis)—a modular, self-contained situational awareness system built from existing field kits and custom tooling.
-<br><br> ## TACTIC Server: 
-<br>Designed TACTIC (Tactical Autonomous Command and Tracking Interface Controller), an offline-first mission management server that runs entirely on local hardware, eliminating reliance on internet or cloud services for operational command and control.
-<br><br>Across these projects, my work emphasizes offline resilience, secure communications, data integrity, and operator usability—principles that also guide my academic and professional goals. I am especially interested in roles involving network engineering, security architecture, mission systems, and government or defense-adjacent infrastructure, where technical decisions have real operational and ethical consequences.
+# 💫 About Me
+
+I am a bachelor’s student at Liberty University studying **Information Technology** with a specialization in **Data Networking & Security**, complemented by a **Minor in Pre-Law**. My academic focus sits at the intersection of **infrastructure, security, and governance**—how systems are designed, protected, and responsibly deployed in high-stakes environments.
+
+My passion for technology started early. At age 12, I built my first computer under the guidance of a mentor, an experience that sparked a lasting interest in how systems work at both the hardware and network levels. Since then, I’ve gravitated toward **complex, mission-critical problems** where reliability, security, and clarity matter more than convenience.
+
+That trajectory led me deep into **Civil Air Patrol (CAP)** emergency services and software development, where I’ve contributed to and led several large-scale operational and technical initiatives:
+
+---
+
+## 🧭 Training & Doctrine Development
+Designed and implemented **Search & Rescue (SAR)** and **Disaster Response** training curricula used to prepare teams for real-world emergency operations.
+
+## 🛰️ TAK Ecosystem Integration
+Built specialized workflows and data pipelines for **Team Awareness Kit (TAK)**, enabling ingestion of external data sources such as **Esri Survey123** and other geospatial platforms.
+
+## 🖥️ VISTA Platform
+In response to the sunset of DAART, I architected **VISTA (Visual Information Streaming for Tactical Analysis)**—a modular, self-contained situational awareness system built from existing field kits and custom tooling.
+
+## 🧠 TACTIC Server
+Designed **TACTIC (Tactical Autonomous Command and Tracking Interface Controller)**, an **offline-first mission management server** running entirely on local hardware, eliminating reliance on internet or cloud-based solutions for command and control.
+
+---
+
+Across these projects, my work emphasizes **offline resilience, secure communications, data integrity, and operator usability**—principles that also guide my academic and professional goals. I am especially interested in roles involving **network engineering, security architecture, mission systems, and government or defense-adjacent infrastructure**, where technical decisions carry real operational and ethical consequences.
 
 
 ## 🌐 Socials:
